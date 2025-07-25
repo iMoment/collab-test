@@ -1,2 +1,2 @@
 # contributors
-Stanley Pan
+Stanley Pan ("I'm so cool")
